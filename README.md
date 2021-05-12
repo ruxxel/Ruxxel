@@ -2,7 +2,7 @@
 
 ### Hakkımda
 
- Merhaba, ben Furkan. 17 yaşında, yazılım ile uğraşan bir öğrenciyim. Yaklaşık 2 yıl önce Discord botları geliştirerek başladığım yazılım yolculuğuna Front-End Developer olarak devam ediyorum. Şuanda çoğunlukla Discord botları geliştiriyorum. Bana ulaşmak için [Discord](https://discord.gg/KFAKCnHVZg) adresime gelebilirsiniz.
+ Merhaba, ben Furkan. 17 yaşında, yazılım ile uğraşan bir öğrenciyim. Yaklaşık 2 yıl önce Discord botları geliştirerek başladığım yazılım yolculuğuna Front-End Developer olarak devam ediyorum. Şuanda çoğunlukla Discord botları geliştiriyorum. Bana ulaşmak için [Discord](https://discord.gg/yGT9SWQ7tV) adresime gelebilirsiniz.
 
 
  <br>
