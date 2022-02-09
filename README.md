@@ -2,7 +2,7 @@
 
 ### Hakkımda
 
- Merhaba, ben Furkan, yazılım ile uğraşan bir öğrenciyim. Yaklaşık 2 yıl önce Discord botları geliştirerek başladığım yazılım yolculuğuna Front-End Developer olarak devam ediyorum. Şuanda çoğunlukla Discord botları geliştiriyorum. Bana ulaşmak için [Discord](https://discord.gg/yGT9SWQ7tV) adresime gelebilirsiniz.
+ Merhaba, ben Furkan, yazılım ile uğraşan bir öğrenciyim. Yaklaşık 2 yıl önce Discord botları geliştirerek başladığım yazılım yolculuğuna Front-End Developer olarak devam ediyorum. Şuanda çoğunlukla Discord botları geliştiriyorum. Bana ulaşmak için [Discord](https://discord.gg/5q5wBv6rek) adresime gelebilirsiniz.
 
 
  <br>
